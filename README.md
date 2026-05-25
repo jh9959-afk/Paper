@@ -1,6 +1,6 @@
 # Project Overview
 
-This repository contains the source code used to process the dataset and reproduce the main experimental results presented in our paper. 
+This repository contains the source code used to process the dataset and reproduce the main experimental results presented in the paper *Optimal Bayesian Stopping for Efficient Inference of Consistent LLM Answers*. 
 
 ## File Description
 
